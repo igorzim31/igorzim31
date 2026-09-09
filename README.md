@@ -26,7 +26,6 @@ Hello, my name is Igor Henrique, and I am currently studying Systems Analysis an
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=igorzim31&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=igorzim31&theme=gruvbox&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=igorzim31&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 
